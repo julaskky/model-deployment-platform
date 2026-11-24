@@ -1,0 +1,15 @@
+api/storage/runtimes/
+**/Lib/site-packages/
+api/storage/runtimes/echo api/storage/models/echo api/storage/packages/echo **/Lib/site-packages/echo __pycache__/echo *.py[cod]echo New Text Document*.txt
+api/storage/models/
+api/storage/models/
+api/storage/models/
+api/storage/packages/
+__pycache__/
+api/storage/runtimes/
+api/storage/models/
+api/storage/packages/
+**/Lib/site-packages/
+__pycache__/
+*.pyc
+New Text Document*.txt
